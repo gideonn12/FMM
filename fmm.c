@@ -1,5 +1,5 @@
+/*Gideon Neeman 329924567*/
 #include "fmm.h"
-
 void fmm(int n, int* m1, int* m2, int* result) {
     int* col=malloc(n*sizeof(int));
     int s=0;
